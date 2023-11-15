@@ -26,7 +26,7 @@ Jupyter Notebooks: Interactive notebooks for step-by-step walkthroughs and code 
 ### Getting Started
 ### Clone the Repository:
 ```bash
-https://github.com/ABK9999/Data_Science_Projects.gi
+https://github.com/ABK9999/Data_Science_Projects.git
 ```
 ### Explore the Projects:
 Navigate to the project folders and explore the Jupyter notebooks.
